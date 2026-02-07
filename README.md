@@ -68,6 +68,3 @@ export OPENWEBUI_API_URL="http://your-server:port/api"
 Telegram에서 봇에게 메시지를 보내면,
 이 봇은 OpenWebUI API를 통해 AI에게 질문을 보내고 응답을 다시 Telegram으로 전송합니다.
 
-# Telegram에 메시지 보내기
-안녕!
-# 봇이 OpenWebUI API로 처리해서 답변을 되돌려줌
